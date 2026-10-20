@@ -1,0 +1,5 @@
+workspace/*
+!workspace/directives.md
+!workspace/board.md
+project/*
+!project/README.md
