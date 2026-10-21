@@ -1,5 +1,8 @@
 workspace/*
 !workspace/directives.md
 !workspace/board.md
+!workspace/submissions/
+workspace/submissions/*
+!workspace/submissions/README.md
 project/*
 !project/README.md
