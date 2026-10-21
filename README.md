@@ -11,7 +11,7 @@ A folder for working with two agents on one project.
 ## What's Inside
 - `AGENTS.md`: how the agents work together.
 - `RULES.md`: the user's rules for this project.
-- `workspace/`: `directives.md` (what to do now) and `board.md` (agent-to-agent notes). This is the talk, and it never ships.
+- `workspace/`: `directives.md` (what to do now), `board.md` (agent-to-agent notes) and `submissions/` (drafts for the Knowledge Library). This is the talk, and it never ships.
 - `project/`: the work.
 
-When a project ends, clear `workspace/` and keep anything worth carrying in `RULES.md`.
+When a project ends, move `workspace/submissions/` into the shared Knowledge Submissions folder, then clear `workspace/` and keep anything worth carrying in `RULES.md`.
